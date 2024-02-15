@@ -8,3 +8,5 @@
  Setup your own quick commands using files with commands
  
  This can run straight CMD scripts aswell for automation
+
+ <img width="400" alt="image" src="https://github.com/Xenial-Portfolio/Git-Up/assets/119448917/67f59ca2-a6e3-40f0-bcd8-68da5bebcca0">
