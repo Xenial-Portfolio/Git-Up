@@ -1,0 +1,10 @@
+C:\Users\dwitherbee\source\repos\GitUp\obj\Debug\GitUp.csproj.AssemblyReference.cache
+C:\Users\dwitherbee\source\repos\GitUp\obj\Debug\GitUp.GitUpForm.resources
+C:\Users\dwitherbee\source\repos\GitUp\obj\Debug\GitUp.Properties.Resources.resources
+C:\Users\dwitherbee\source\repos\GitUp\obj\Debug\GitUp.csproj.GenerateResource.cache
+C:\Users\dwitherbee\source\repos\GitUp\obj\Debug\GitUp.csproj.CoreCompileInputs.cache
+C:\Users\dwitherbee\source\repos\GitUp\bin\Debug\GitUp.exe.config
+C:\Users\dwitherbee\source\repos\GitUp\bin\Debug\GitUp.exe
+C:\Users\dwitherbee\source\repos\GitUp\bin\Debug\GitUp.pdb
+C:\Users\dwitherbee\source\repos\GitUp\obj\Debug\GitUp.exe
+C:\Users\dwitherbee\source\repos\GitUp\obj\Debug\GitUp.pdb
